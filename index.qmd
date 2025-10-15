@@ -4,9 +4,7 @@ title: "amr-data-dictionary"
 
 ## About
 
-This web page will provide meta data information about the data files used for the course R for AMR.
-
-Data files:
+Metadata for data files
 
 -   gapminder_data.csv
 -   hgt_wgt.csv
